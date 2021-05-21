@@ -19,8 +19,8 @@ Fair Launch No Whale and Bots allowed
  * After 7 Days 10% Tax fee  -->7% Back to the Liquidity Pool, 3% Redistribute to holders
 
 
-Max amount per wallet : 20.000.000.000 (2%)
-Max transaction : 1.000.000.000
+- Max amount per wallet : 20.000.000.000 (2%)
+- Max transaction : 1.000.000.000
 
 Remember, holder will earn passive reward for holding especially early state after token release so HODL EzMoon together to the moon
 
