@@ -891,7 +891,7 @@ contract EzMoonToken is Context, IERC20, Ownable {
     IPancakeRouter02 public immutable pcsV2Router;
     address public immutable pcsV2Pair;
 
-    string private _name = "EzMoonToken;
+    string private _name = "EzMoonToken";
     string private _symbol = "EzMoon";
     uint8 private _decimals = 9;
     uint256 public _start_timestamp = block.timestamp;
