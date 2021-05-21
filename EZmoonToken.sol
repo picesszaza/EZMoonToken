@@ -23,7 +23,7 @@
  * https://t.me/EZMoonToken
  * https://twitter.com/EZMoonTokens
  *
- * The fair launch will take place at the xxth of may 2pm UTC
+ * The fair launch will take place at the 23th of may 3pm UTC
  */
 
 
